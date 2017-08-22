@@ -1,0 +1,10 @@
+C:\Users\FredrikH\documents\visual studio 2013\Projects\oving7-2\DataModel\bin\Release\DataModel.dll.config
+C:\Users\FredrikH\documents\visual studio 2013\Projects\oving7-2\DataModel\bin\Release\DataModel.dll
+C:\Users\FredrikH\documents\visual studio 2013\Projects\oving7-2\DataModel\bin\Release\DataModel.pdb
+C:\Users\FredrikH\documents\visual studio 2013\Projects\oving7-2\DataModel\bin\Release\Newtonsoft.Json.dll
+C:\Users\FredrikH\documents\visual studio 2013\Projects\oving7-2\DataModel\bin\Release\Newtonsoft.Json.xml
+C:\Users\FredrikH\documents\visual studio 2013\Projects\oving7-2\DataModel\obj\Release\DataModel.dll
+C:\Users\FredrikH\documents\visual studio 2013\Projects\oving7-2\DataModel\obj\Release\DataModel.pdb
+C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\DataModel\bin\Release\DataModel.dll.CodeAnalysisLog.xml
+C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\DataModel\bin\Release\DataModel.dll.lastcodeanalysissucceeded
+C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\DataModel\obj\Release\DataModel.csprojResolveAssemblyReference.cache

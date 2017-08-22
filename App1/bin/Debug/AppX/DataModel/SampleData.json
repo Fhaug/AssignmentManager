@@ -1,0 +1,53 @@
+{"Groups":[
+  {
+    "UniqueId": "Group-1",
+    "Title": "Dates and Assignments",
+    "Subtitle": "Logo",
+    "ImagePath": "Assets/DarkGray.png",
+    "Description" : "Here you'll find all of the current assignments.",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-1-Item-1",
+        "Title": "24:11:2015",
+        "Subtitle": "Assignment 13 Math",
+        "ImagePath": "Assets/LightGray.png",
+        "Description" : "Assignment 13 Math",
+        "Content" : "Assignment 13 Math"
+		},
+      {
+        "UniqueId": "Group-1-Item-2",
+        "Title": "26:11:2015",
+        "Subtitle": "Assignment 8 .NET",
+        "ImagePath": "Assets/DarkBlue.png",
+        "Description" : "Assignment 8 .NET",
+        "Content" : "Assignment 8 .NET"
+		},
+      {
+        "UniqueId": "Group-1-Item-3",
+        "Title": "16:12:2015",
+        "Subtitle": "Assignment 1 History",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Assignment 1 History",
+        "Content" : "Assignment 1 History"
+		},
+      {
+        "UniqueId": "Group-1-Item-4",
+        "Title": "16:12:2015",
+        "Subtitle": "Exam Math",
+        "ImagePath": "Assets/LightBlue.png",
+        "Description" : "Exam Math",
+        "Content" : "Exam Math"
+      },
+      {
+        "UniqueId": "Group-1-Item-5",
+        "Title": "24:12:2015",
+        "Subtitle": "Christmas",
+        "ImagePath": "Assets/MediumBlue.png",
+        "Description" : "Christmas",
+        "Content" : "Christmas"
+  }
+    ]
+  }
+]
+}

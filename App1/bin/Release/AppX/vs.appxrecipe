@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FREDRIKH-PC</Machine>
+    <WindowsUser>FredrikH</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1967c067-2f68-43e0-a552-e38ca2c3064c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\obj\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>7F5774C5C01A213269D2477A0833B6D239749AE6188BCEFA915444691BF28BF8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1967c067-2f68-43e0-a552-e38ca2c3064c_1.0.0.0_neutral__g54ygtr5z9wwt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1967c067-2f68-43e0-a552-e38ca2c3064c_g54ygtr5z9wwt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1967c067-2f68-43e0-a552-e38ca2c3064c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=FredrikH</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-25T15:15:45.875</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\bin\Release\AssignmentLogger.exe">
+      <PackagePath>AssignmentLogger.exe</PackagePath>
+      <Modified>2015-11-25T18:09:28.542</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\DataModel\bin\Release\DataModel.dll">
+      <PackagePath>DataModel.dll</PackagePath>
+      <Modified>2015-11-25T15:15:27.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\DataSource\bin\Release\DataSource.dll">
+      <PackagePath>DataSource.dll</PackagePath>
+      <Modified>2015-11-25T16:15:04.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\packages\Newtonsoft.Json.7.0.1\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-11-04T16:31:03.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\Assets\Background.jpg">
+      <PackagePath>Assets\Background.jpg</PackagePath>
+      <Modified>2015-11-05T19:55:04.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\Assets\BadgeLogo.scale-140.png">
+      <PackagePath>Assets\BadgeLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-24T16:29:05.075</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <Modified>2015-11-05T16:51:46.202</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <Modified>2015-11-05T16:47:16.860</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-24T16:26:57.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-24T16:33:32.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\Assets\Square30x30Logo.scale-100.png">
+      <PackagePath>Assets\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-24T16:34:28.613</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-24T16:30:32.654</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2015-11-05T18:03:22.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-11-25T15:15:41.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\bin\Release\Deadline.xbf">
+      <PackagePath>Deadline.xbf</PackagePath>
+      <Modified>2015-11-25T17:22:51.933</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\bin\Release\GroupedItemsPage.xbf">
+      <PackagePath>GroupedItemsPage.xbf</PackagePath>
+      <Modified>2015-11-25T15:15:41.424</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\bin\Release\GroupDetailPage.xbf">
+      <PackagePath>GroupDetailPage.xbf</PackagePath>
+      <Modified>2015-11-25T15:15:41.427</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\bin\Release\ItemDetailPage.xbf">
+      <PackagePath>ItemDetailPage.xbf</PackagePath>
+      <Modified>2015-11-25T17:22:51.935</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\bin\Release\StartPage.xbf">
+      <PackagePath>StartPage.xbf</PackagePath>
+      <Modified>2015-11-25T15:15:41.428</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\bin\Release\Upload.xbf">
+      <PackagePath>Upload.xbf</PackagePath>
+      <Modified>2015-11-25T17:22:51.936</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\bin\Release\AssignmentLogger.xr.xml">
+      <PackagePath>AssignmentLogger.xr.xml</PackagePath>
+      <Modified>2015-11-25T14:21:37.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\FredrikH\Documents\Visual Studio 2013\Projects\oving7-2\App1\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-11-25T15:15:45.744</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

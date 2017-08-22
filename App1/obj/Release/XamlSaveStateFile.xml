@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\fredrikh\documents\visual studio 2013\projects\oving7-2\app1\obj\release\intermediatexaml\assignmentlogger.exe" HashGuid="dfd7fdc6-1a7f-a680-472e-b27c41808183" />
+    <ReferenceAssembly PathName="c:\users\fredrikh\documents\visual studio 2013\projects\oving7-2\datamodel\bin\release\datamodel.dll" HashGuid="8366c46e-e770-eb9d-942a-f3c339c413d2" />
+    <ReferenceAssembly PathName="c:\users\fredrikh\documents\visual studio 2013\projects\oving7-2\datasource\bin\release\datasource.dll" HashGuid="17960dc8-3e82-5ee9-4d03-59d9a9cf7349" />
+    <ReferenceAssembly PathName="c:\users\fredrikh\documents\visual studio 2013\projects\oving7-2\packages\newtonsoft.json.7.0.1\lib\portable-net40+sl5+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="0b4cdfc1-2257-2e75-23cf-4052e97b309e" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
